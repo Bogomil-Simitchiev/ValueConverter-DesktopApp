@@ -1,0 +1,10 @@
+C:\Users\Bogomil\source\repos\ValueConverter\ValueConverter\bin\Debug\ValueConverter.exe.config
+C:\Users\Bogomil\source\repos\ValueConverter\ValueConverter\bin\Debug\ValueConverter.exe
+C:\Users\Bogomil\source\repos\ValueConverter\ValueConverter\bin\Debug\ValueConverter.pdb
+C:\Users\Bogomil\source\repos\ValueConverter\ValueConverter\obj\Debug\ValueConverter.csprojAssemblyReference.cache
+C:\Users\Bogomil\source\repos\ValueConverter\ValueConverter\obj\Debug\ValueConverter.Form1.resources
+C:\Users\Bogomil\source\repos\ValueConverter\ValueConverter\obj\Debug\ValueConverter.Properties.Resources.resources
+C:\Users\Bogomil\source\repos\ValueConverter\ValueConverter\obj\Debug\ValueConverter.csproj.GenerateResource.cache
+C:\Users\Bogomil\source\repos\ValueConverter\ValueConverter\obj\Debug\ValueConverter.csproj.CoreCompileInputs.cache
+C:\Users\Bogomil\source\repos\ValueConverter\ValueConverter\obj\Debug\ValueConverter.exe
+C:\Users\Bogomil\source\repos\ValueConverter\ValueConverter\obj\Debug\ValueConverter.pdb
